@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>WEB PERSONAL</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h1>Karina Elizabeth Gómez <h1>
+
+  <p> Soy estudiante de desarrollo de software <p>
+<p> Me interesa aprender todo lo relacionado sobre el desarrollo de paginas web <p>
+
+<p> Y espero poder aprender lo suficiente para realizar todo tipo de webs <p> 
+
+<p> Estoy muy contenta de poder participar en este curso, y muy agradecida<p> 
+
+
+<h1> PROGRESANDO EN EL MUNDO DEL DESARROLLO WEB <h1>
+
+</body>
+</html>
+/* Estilo para los encabezados */
+h1 {
+color: #007bff;
+font-size: 24px;
+}
+/* Estilo para los párrafos */
+p {
+color: #333;
+font-size: 16px;
+}
+/* Estilo para los enlaces */
+a {
+color: #ff9900;
